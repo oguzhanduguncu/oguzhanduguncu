@@ -28,7 +28,6 @@
 
 ## 🛠️ Featured Projects
 ### 🔹 Cross-Platform Development
-Worked on applications for Windows, Linux, iOS and HarmonyOS with modular architecture.
 
 ### 🔹 Backend Integrations & Automation
 Developed secure backend flows, log analysis tools, test pipelines and automation scripts.
