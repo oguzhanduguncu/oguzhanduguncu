@@ -30,10 +30,8 @@
 ### 🔹 Cross-Platform Development
 
 ### 🔹 Backend Integrations & Automation
-Developed secure backend flows, log analysis tools, test pipelines and automation scripts.
 
 ### 🔹 Systems-Level Engineering
-Performance optimization, debugging, build systems.
 
 ---
 
