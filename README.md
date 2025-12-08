@@ -13,12 +13,11 @@ Specialized in **high-performance backend systems, secure payment platforms, and
 
 - C++ Backend & Systems Engineering  
 - High-Throughput, Low-Latency Backend Services  
-- Secure Payment Systems (**PCI-DSS, Data Masking, Data Concealment**)  
+- Secure Payment Systems
 - Distributed Systems & Microservices  
 - Linux Systems Programming & Performance Optimization  
 - API Integration (REST / gRPC)  
-- Cross-Platform Systems (Windows, Linux, iOS, HarmonyOS)  
-- C++–Swift Integration  
+- Cross-Platform Systems
 - Docker, Kubernetes (basic), CI/CD  
 
 ---
