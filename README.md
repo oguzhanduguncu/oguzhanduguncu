@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oğuzhan Düğüncü
 
-**Mid-Level C++ Backend / Systems Engineer**  
+**C++ Backend / Systems Engineer**  
 Specialized in **high-performance backend systems, secure payment platforms, and cross-platform architectures**.  
 4+ years of professional experience at **global enterprise companies (Amadeus, Huawei)**.
 
