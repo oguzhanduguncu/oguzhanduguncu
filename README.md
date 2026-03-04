@@ -39,7 +39,6 @@
 
 - 📧 Email: **oguzhanduguncu@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/oguzhan-duguncu7  
-- 🐙 GitHub: https://github.com/oguzhanduguncu  
 
 ---
 
