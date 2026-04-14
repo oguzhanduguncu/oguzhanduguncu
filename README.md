@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:** C, C++, Python  
-**Systems:** Linux, Multithreading (basic), Memory Management  
+**Systems:** Unix/Linux, Multithreading (basic), Memory Management  
 **Build & Tooling:** CMake, Git, GDB, Bash  
 **DevOps:** Docker, Kubernetes (basic), CI/CD  
 **Methodologies:** Clean Code, Agile / Scrum  
