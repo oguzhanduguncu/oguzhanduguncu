@@ -28,7 +28,7 @@ I prefer implementing something myself before reaching for a framework — I wan
 ## 🛠️ Tech
 - **Languages:** C++, C, Python
 - **Systems:** Linux, multithreading, memory management, network I/O
-- **Domains:** real-time data pipelines, numerical simulation, quantitative/statistical modeling
+- **Domains:** real-time estimation & signal processing, numerical simulation, statistical modeling — applied so far to both quantitative trading and multi-agent simulation
 - **Tooling:** CMake, Git, GDB, Docker
 
 ---
