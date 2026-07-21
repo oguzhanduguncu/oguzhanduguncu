@@ -26,10 +26,10 @@ I prefer implementing something myself before reaching for a framework — I wan
 ---
 
 ## 🛠️ Tech
-**Languages:** C++, C, Python
-**Systems:** Linux, multithreading, memory management, network I/O
-**Domains:** real-time data pipelines, numerical simulation, quantitative/statistical modeling
-**Tooling:** CMake, Git, GDB, Docker
+- **Languages:** C++, C, Python
+- **Systems:** Linux, multithreading, memory management, network I/O
+- **Domains:** real-time data pipelines, numerical simulation, quantitative/statistical modeling
+- **Tooling:** CMake, Git, GDB, Docker
 
 ---
 
